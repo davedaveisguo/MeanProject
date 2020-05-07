@@ -1,0 +1,10 @@
+mat-spinner{
+  margin: auto;
+}
+
+
+mat-form-field,
+input{
+  width: 100%;
+  border-style: outset;
+}
